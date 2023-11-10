@@ -1,0 +1,27 @@
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\bin\Debug\Actualizador.exe
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\bin\Debug\Actualizador.pdb
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.AssemblyReference.cache
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.Actualizador.resources
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.Properties.Resources.resources
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.GenerateResource.cache
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.CoreCompileInputs.cache
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.exe
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.pdb
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\bin\Debug\Actualizador.exe
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\bin\Debug\Actualizador.pdb
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.AssemblyReference.cache
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Debug\Actualizador.Actualizador.resources
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Debug\Actualizador.Properties.Resources.resources
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.GenerateResource.cache
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.CoreCompileInputs.cache
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Debug\Actualizador.exe
+E:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Debug\Actualizador.pdb
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\bin\Debug\Actualizador.exe
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\bin\Debug\Actualizador.pdb
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.AssemblyReference.cache
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.Actualizador.resources
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.Properties.Resources.resources
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.GenerateResource.cache
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.CoreCompileInputs.cache
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.exe
+E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.pdb

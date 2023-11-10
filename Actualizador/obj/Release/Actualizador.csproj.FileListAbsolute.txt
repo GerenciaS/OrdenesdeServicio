@@ -1,0 +1,18 @@
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\bin\Release\Actualizador.exe
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\bin\Release\Actualizador.pdb
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Release\Actualizador.csproj.AssemblyReference.cache
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Release\Actualizador.Actualizador.resources
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Release\Actualizador.Properties.Resources.resources
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Release\Actualizador.csproj.GenerateResource.cache
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Release\Actualizador.csproj.CoreCompileInputs.cache
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Release\Actualizador.exe
+C:\Users\Programador Javier\source\repos\ModuloConexionesRemotas\Actualizador\obj\Release\Actualizador.pdb
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\bin\Release\Actualizador.exe
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\bin\Release\Actualizador.pdb
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Release\Actualizador.csproj.AssemblyReference.cache
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Release\Actualizador.Actualizador.resources
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Release\Actualizador.Properties.Resources.resources
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Release\Actualizador.csproj.GenerateResource.cache
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Release\Actualizador.csproj.CoreCompileInputs.cache
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Release\Actualizador.exe
+D:\Proyectos\Repositorios\repos\ModuloConexionesRemotas\ConexionesRemotas\Actualizador\obj\Release\Actualizador.pdb

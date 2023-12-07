@@ -25,3 +25,11 @@ E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizado
 E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.csproj.CoreCompileInputs.cache
 E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.exe
 E:\Proyectos\Repositorios\repos\Actualizados\ModuloConexionesRemotas\Actualizador\obj\Debug\Actualizador.pdb
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\bin\Debug\Actualizador.exe
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\bin\Debug\Actualizador.pdb
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\obj\Debug\Actualizador.csprojResolveAssemblyReference.cache
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\obj\Debug\Actualizador.Actualizador.resources
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\obj\Debug\Actualizador.Properties.Resources.resources
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\obj\Debug\Actualizador.csproj.GenerateResource.Cache
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\obj\Debug\Actualizador.exe
+C:\Desarrollos\GitHub\OrdenesdeServicio\Actualizador\obj\Debug\Actualizador.pdb
